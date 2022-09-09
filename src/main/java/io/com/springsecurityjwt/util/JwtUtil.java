@@ -10,7 +10,11 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
-
+/**
+ * 
+ * @author ssing109
+ *
+ */
 @Service
 public class JwtUtil {
 

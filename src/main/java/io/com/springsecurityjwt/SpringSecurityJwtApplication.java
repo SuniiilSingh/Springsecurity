@@ -2,7 +2,11 @@ package io.com.springsecurityjwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+/**
+ * 
+ * @author ssing109
+ *
+ */
 @SpringBootApplication
 public class SpringSecurityJwtApplication {
 

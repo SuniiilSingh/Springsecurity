@@ -6,7 +6,11 @@ import org.springframework.stereotype.Service;
 import io.com.springsecurityjwt.entiry.Users;
 import io.com.springsecurityjwt.repository.UserRepository;
 import io.com.springsecurityjwt.service.UserService;
-
+/**
+ * 
+ * @author ssing109
+ *
+ */
 @Service
 public class UserServiceImpl implements UserService {
 

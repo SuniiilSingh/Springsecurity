@@ -1,7 +1,11 @@
 package io.com.springsecurityjwt.dto;
 
 import java.io.Serializable;
-
+/**
+ * 
+ * @author ssing109
+ *
+ */
 public class AuthenticationRequest implements Serializable {
 
 

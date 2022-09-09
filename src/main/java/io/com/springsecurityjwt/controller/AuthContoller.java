@@ -15,7 +15,11 @@ import io.com.springsecurityjwt.MyUserDetailsService;
 import io.com.springsecurityjwt.dto.AuthenticationRequest;
 import io.com.springsecurityjwt.dto.AuthenticationResponse;
 import io.com.springsecurityjwt.util.JwtUtil;
-
+/**
+ * 
+ * @author ssing109
+ *
+ */
 @RestController
 public class AuthContoller {
 	@Autowired

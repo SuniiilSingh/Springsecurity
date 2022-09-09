@@ -4,7 +4,11 @@ import java.util.Date;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-
+/**
+ * 
+ * @author ssing109
+ *
+ */
 @Entity
 public class Users {
 	@Id

@@ -11,7 +11,11 @@ import io.com.springsecurityjwt.entiry.Users;
 import io.com.springsecurityjwt.service.UserService;
 
 import java.util.ArrayList;
-
+/**
+ * 
+ * @author ssing109
+ *
+ */
 @Service
 public class MyUserDetailsService implements UserDetailsService {
 
